@@ -1,4 +1,4 @@
-Testing virtual enviorments as well as setting up git repo
+
 How to setup virtual enviorment
 
 Create a virtual environment at the top level of your project directory:
